@@ -1,7 +1,7 @@
 
 Olá, eu sou a Luiza Ferreira 👽
 
-✌ Em desenvolvimento na carreira de Full-stack Developer
+✌ Em transição de carreira para Full-Stack Developer
 
 🧐 Estudando HTML/CSS e Javascript 
 
