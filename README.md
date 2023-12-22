@@ -6,5 +6,5 @@ Olá, eu sou a Luiza Ferreira 👽
 🧐 Estudando HTML/CSS, Javascript, Typescript e Angular
 
 😻 English Language Lover 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiza)](https://github.com/luizaferreirafonseca/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizaferreira&show_icons=true&theme=dracula)
