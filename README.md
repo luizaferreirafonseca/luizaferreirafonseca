@@ -7,3 +7,4 @@ Olá, eu sou a Luiza Ferreira 👽
 
 😻 English Language Lover 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizaferreira&show_icons=true&theme=radical)
