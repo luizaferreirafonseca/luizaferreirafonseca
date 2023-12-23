@@ -21,7 +21,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Luiza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizaferreirafonseca/)](https://www.linkedin.com/in/luizaferreirafonseca/) 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiza.ferreira.fonseca@gmail.com)](mailto:luiza.ferreira.fonseca@gmail.com)
 
 
 
