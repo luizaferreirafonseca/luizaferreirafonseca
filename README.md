@@ -1,5 +1,5 @@
 
-Olá, eu sou a Luiza Ferreira 👽
+# Olá, mundo! 🦝
 
 ✌ Em transição de carreira para Full-Stack Developer
 
@@ -8,16 +8,10 @@ Olá, eu sou a Luiza Ferreira 👽
 😻 English Language Lover 
 
 
-# Print("Hello, mana!") 🦝
-
-Meu nome é Laiza Benevides, sou criadora e produtora de conteúdo no Conecta Elas, onde compartilho todos os meus conhecimentos sobre Desenvolvimento Web para as manas que querem entrar nessa área.🥰 
-
--  Siga o instagram:  [Conecta Elas](https://www.instagram.com/conecta_elas/) 
 
 <p align="center">
   
-  <img src = "https://github-readme-stats.vercel.app/api?username=laizabsobral&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=laizabsobral&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=luizaferreira&show_icons=true&theme=bear" width = 400>
 </p>
 <br />
 <br />
