@@ -13,7 +13,7 @@
 
 - English Language Lover 
 
-
+  <img align="right" alt="Thaiza-gif" height="130" style="border-radius:50px;" src="https://i.picasion.com/pic92/b17cc133edef505a47bd6cc2e2fc2197.gif">
 
 ## Minhas skills
 
