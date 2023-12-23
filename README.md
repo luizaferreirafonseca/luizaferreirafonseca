@@ -1,4 +1,10 @@
 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=140&section=header"/>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=yelloamarelo=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Luiza+Ferreira;Estudo+programação+e+adoro+aprender+coisas+novas;+Em+transição+de+Carreira;Welcome+to+my;profile+github+:%29)
+
+
 # Olá, mundo! 🦝
 
 ✌ Em transição de carreira para Full-Stack Developer
