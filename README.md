@@ -5,7 +5,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=yelloamarelo=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Luiza+Ferreira;Estudo+programação+e+adoro+aprender+coisas+novas;Welcome+to+my+profile+:%29)
 
 
-# Olá, mundo! 🦝
+# Olá, mundo! 
 
 - Eu sempre gostei muito de criar e solucionar problemas!
 
