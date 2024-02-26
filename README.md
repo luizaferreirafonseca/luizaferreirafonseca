@@ -1,19 +1,13 @@
 
+## Olá, mundo! 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=140&section=header"/>
+* Atualmente estudo Angular e C#. 💻
+*  Tenho interesse em resolver problemas complexos e encontrar soluções criativas por meio da programação. 💡
+*  Fui professora de Línguas durante um tempo e estou em transição de carreira. 📘
+*  Em desenvolvimento para desenvolvedora FullStack. 💙
+*  Adoro aprender, trocar, criar, ler e procurar o significado das palavras em difeentes idiomas. :grinning:
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=yelloamarelo=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Luiza+Ferreira;Estudo+programação+e+adoro+aprender+coisas+novas;Welcome+to+my+profile+:%29)
 
-
-# Olá, mundo! 
-
-- Eu sempre gostei muito de criar e solucionar problemas!
-
-- No início de 2023, me descobri na área da programação e, hoje, procuro um desenvolvimento cada vez mais profundo e maior.
-
-- Também fui professora durante um bom tempo e meu cenário atual é a transição de carreira.
-
-- 💙 Amo a Língua Inglesa e adoro aprender novas línguas.
 
   <img align="right" alt="Thaiza-gif" height="130" style="border-radius:50px;" src="https://i.picasion.com/pic92/b17cc133edef505a47bd6cc2e2fc2197.gif">
 
