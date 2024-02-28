@@ -5,7 +5,7 @@
 *  Tenho interesse em resolver problemas complexos e encontrar soluções criativas por meio da programação. 💡
 *  Fui professora de Línguas durante um tempo e estou em transição de carreira. 📘
 *  Em desenvolvimento para desenvolvedora FullStack. 💙
-*  Adoro aprender, trocar, criar, ler e procurar o significado das palavras em difeentes idiomas. :grinning:
+*  Adoro aprender, trocar, criar, ler e procurar o significado das palavras em diferentes idiomas. :grinning:
 
 
 
