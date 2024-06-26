@@ -3,8 +3,7 @@
 
 * Atualmente estudo Angular e C#. 💻
 *  Tenho interesse em resolver problemas complexos e encontrar soluções criativas por meio da programação. 💡
-*  Fui professora de Línguas durante um tempo e estou em transição de carreira. 📘
-*  Em desenvolvimento para desenvolvedora FullStack. 💙
+*  Fui professora de Línguas durante um tempo e hoje sou Desenvolvedora Fullstack. 📘 💙
 *  Adoro aprender, trocar, criar, ler e procurar o significado das palavras em diferentes idiomas. :grinning:
 
 
